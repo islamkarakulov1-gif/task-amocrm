@@ -1,0 +1,2 @@
+Ошибка: Bad request
+Код ошибки: 400https://daxmxx4.amocrm.ru/api/v4/events?limit=250&with=lead_name&filter[entity_id]=30340535&page=1
